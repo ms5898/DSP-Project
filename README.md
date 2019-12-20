@@ -29,3 +29,10 @@ PART2 SCSR:
 ![srcnn](https://github.com/ms5898/DSP-Project/blob/master/PART1_SRCNN/Sample/butterfly_GT_SRCNN.jpg)
  
 <pre>    Fig1.Original image           Fig2.Bicubic image         Fig3.Super-resolved image </pre>
+
+## References
+[1]Dong, C., Loy, C.C., He, K. and Tang, X., 2015. Image super-resolution using deep convolutional networks. IEEE transactions on pattern analysis and machine intelligence, 38(2), pp.295-307.
+
+[2]Yang, J., Wright, J., Huang, T.S. and Ma, Y., 2010. Image super-resolution via sparse representation. IEEE transactions on image processing, 19(11), pp.2861-2873.
+
+[3]Image Super-Resolution Using Deep Convolutional Networks(http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html) 

@@ -46,4 +46,6 @@ our understanding & purposerefering to the original code by author
 
 [3][Image Super-Resolution Using Deep Convolutional Networks](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html) 
 
-[4] PART2 Code provided by the author at: http://www.ifp.illinois.edu/~jyang29/
+[4] PART1 Dataset and method of reading data provided by the author at: https://github.com/tegg89/SRCNN-Tensorflow
+
+[5] PART2 Code provided by the author at: http://www.ifp.illinois.edu/~jyang29/

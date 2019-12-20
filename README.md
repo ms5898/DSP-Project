@@ -33,6 +33,8 @@ our understanding & purposerefering to the original code by author
 ![orig](https://github.com/ms5898/DSP-Project/blob/master/PART1_SRCNN/Sample/butterfly_GT_hr.jpg)
 ![bicubic](https://github.com/ms5898/DSP-Project/blob/master/PART1_SRCNN/Sample/butterfly_GT_lr.jpg)
 ![srcnn](https://github.com/ms5898/DSP-Project/blob/master/PART1_SRCNN/Sample/butterfly_GT_SRCNN.jpg)
+* Result for SCSR
+![scsr](https://github.com/ms5898/DSP-Project/blob/master/PART2_SCSR/img/result.png)
 
 ## References
 [1]Dong, C., Loy, C.C., He, K. and Tang, X., 2015. Image super-resolution using deep convolutional networks. IEEE transactions on pattern analysis and machine intelligence, 38(2), pp.295-307.

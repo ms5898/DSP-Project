@@ -2,6 +2,13 @@
 
 ## The Project code is divided into two parts
 
-1 PART1_SRCNN 
+1 PART1: SRCNN 
 
-2 PART2_SCSR 
+2 PART2: SCSR 
+
+## Prerequisites
+* Tensorflow
+* MATLAB
+* Python3.6.9
+
+## Usage

@@ -2,9 +2,9 @@
 
 ## The Project code is divided into two parts
 
-1 PART1: SRCNN 
+* 1 PART1: SRCNN 
 
-2 PART2: SCSR 
+* 2 PART2: SCSR 
 
 ## Prerequisites
 * Tensorflow

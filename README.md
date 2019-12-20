@@ -28,4 +28,4 @@ PART2 SCSR:
 ![bicubic](https://github.com/ms5898/DSP-Project/blob/master/PART1_SRCNN/Sample/butterfly_GT_lr.jpg)
 ![srcnn](https://github.com/ms5898/DSP-Project/blob/master/PART1_SRCNN/Sample/butterfly_GT_SRCNN.jpg)
  
-<pre>      Original image           Bicubic interpolated image      Super-resolved image </pre>
+<pre>    Fig1.Original image           Fig2.Bicubic image         Fig3.Super-resolved image </pre>

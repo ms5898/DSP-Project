@@ -1,5 +1,8 @@
 # ELEN 4810 Digital Signal Processing Project
-
+## members:
+```
+Mingfei Sun (ms5898); Yifeng Deng (yd2505); Zihan Yang (zy2362); Zhuoxu Duan (zd2235)
+```
 ## The Project code is divided into two parts
 
 * 1 PART1: SRCNN 

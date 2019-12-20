@@ -18,7 +18,7 @@ PART1 SRCNN:
 
 PART2 SCSR:
 ```
-待完成
+========待完成=========
 ```
 
 ## Result
@@ -27,3 +27,5 @@ PART2 SCSR:
 ![orig](https://github.com/ms5898/DSP-Project/blob/master/PART1_SRCNN/Sample/butterfly_GT_hr.jpg)
 ![bicubic](https://github.com/ms5898/DSP-Project/blob/master/PART1_SRCNN/Sample/butterfly_GT_lr.jpg)
 ![srcnn](https://github.com/ms5898/DSP-Project/blob/master/PART1_SRCNN/Sample/butterfly_GT_SRCNN.jpg)
+ 
+<pre>      Original image           Bicubic interpolated image      Super-resolved image </pre>

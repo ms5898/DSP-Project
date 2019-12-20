@@ -17,10 +17,15 @@ PART1 SRCNN:
 * For the saved image: Find in ```PART1_SRCNN/Sample/*.jpg```
 
 PART2 SCSR:
+* main.m : 
 ```
-========待完成=========
+the main program for running the SCSR algorithm and compare results
 ```
-
+* ScSR.m :
+```
+contains the algorithm realization by us, with plenty of comments of 
+our understanding & purposerefering to the original code by author
+```
 ## Result
 * Result for SRCNN
 <pre>    Fig1.Original image           Fig2.Bicubic image         Fig3.Super-resolved image </pre>
@@ -35,3 +40,5 @@ PART2 SCSR:
 [2]Yang, J., Wright, J., Huang, T.S. and Ma, Y., 2010. Image super-resolution via sparse representation. IEEE transactions on image processing, 19(11), pp.2861-2873.
 
 [3][Image Super-Resolution Using Deep Convolutional Networks](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html) 
+
+[4] PART2 Code provided by the author at: http://www.ifp.illinois.edu/~jyang29/
